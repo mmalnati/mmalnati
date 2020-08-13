@@ -1,5 +1,5 @@
 [![GitHub mmalnati](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mmalnati)
-![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmalnati/)]
+![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmalnati/)
 ### Hi there 👋
 Hola
 <!--
