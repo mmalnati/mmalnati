@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=mmalnati&label=Views&color=blue&style=plastic%22%20alt=%22mmalnati
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmalnati&label=Views&color=blue&style=plastic" alt="mmalnati" /> </p>
 ### Hi there 👋
 
 [![GitHub mmalnati](https://img.shields.io/github/followers/mmalnati?label=follow&style=social)](https://github.com/mmalnati)
