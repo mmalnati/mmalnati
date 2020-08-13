@@ -1,7 +1,9 @@
-[![GitHub mmalnati](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mmalnati)
-![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmalnati/)
+https://komarev.com/ghpvc/?username=mmalnati&label=Views&color=blue&style=plastic%22%20alt=%22mmalnati
 ### Hi there 👋
-Hola
+
+[![GitHub mmalnati](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mmalnati)
+[![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/mmalnati/)
+
 <!--
 **mmalnati/mmalnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
