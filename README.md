@@ -1,8 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmalnati&label=Views&color=blue&style=plastic" alt="mmalnati" /> </p>
+
 ### Hi there 👋
 
 [![GitHub mmalnati](https://img.shields.io/github/followers/mmalnati?label=follow&style=social)](https://github.com/mmalnati)
-[![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/mmalnati/)
+<a href ="[![Linkedin: mmalnati](https://img.shields.io/badge/-mmalnati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/mmalnati/)"> target="_blank"</a>
 
 <!--
 **mmalnati/mmalnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
