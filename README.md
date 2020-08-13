@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about BIG-IP F5
-- 📫 How to reach me: <a href="https://t.me/soportenetar">
-  <img align="left" alt="Soporte's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
--->
+- 📫 How to reach me: <a href="https://t.me/soportenetar"> <img align="left" alt="Soporte's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=mmalnati&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
