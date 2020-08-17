@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about BIG-IP F5
 
-<img src="https://github-readme-stats-lac-omega.vercel.app/api?username=mmalnati&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats-lac-omega.vercel.app/api?username=mmalnati&&show_icons=true&theme=radical">
 
 **Tools and interest:**
 
