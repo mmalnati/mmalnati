@@ -18,4 +18,4 @@
 Tools and interest:
 
 
-<code><img height="20" src="icon/f5.jpeg"></code>
+<code><img height="20" src="icons/f5.jpeg"></code>
