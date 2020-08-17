@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Secretary of Public Innovation
 - 🌱 I’m currently learning RHCSA
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on opensource proyects
 - 🤔 I’m looking for help with AWS
-- 💬 Ask me about BIG-IP F5
+- 💬 Ask me about [here] (https://github.com/mmalnati/mmalnati/issues)
 
 <img src="https://github-readme-stats-lac-omega.vercel.app/api?username=mmalnati&&show_icons=true&theme=vue">
 
