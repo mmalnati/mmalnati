@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mmalnati&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-Tools and interest:
+**Tools and interest:***
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/f5.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/f5.jpeg"title="BIG-IP F5"></code>
