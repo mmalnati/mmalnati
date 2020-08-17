@@ -18,4 +18,10 @@
 **Tools and interest:***
 
 
-<img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/f5.jpeg" title="BIG-IP F5"></>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/f5.jpeg" title="BIG-IP F5"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/jmeter.png" title="Apache Jmeter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/kali.png" title="Kali Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/linux.jpeg" title="GNU/Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/parrotsec.jpeg" title="Parrot Security OS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/redhat.jpeg" title="Red Hat Enterprise Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mmalnati/mmalnati/master/icons/shellscript.jpeg" title="Shell scripting"></code>
